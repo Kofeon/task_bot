@@ -1,0 +1,8 @@
+aiogram == 2.2
+asyncio
+sqlite3
+datetime
+tonsdk
+pytonconnect
+random
+redis
